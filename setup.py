@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name = "cs101-testing",
-    version = "0.0.1",
+    version = "0.0.2",
     url = "https://github.com/karthiksharma/cs101-testing",
     author = "Kartikeya Sharma",
     author_email = "ksharma@illinois.edu",
